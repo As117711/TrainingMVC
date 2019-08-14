@@ -15,7 +15,7 @@ namespace BootstrapCourse.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your about description page";
 
             return View();
         }
